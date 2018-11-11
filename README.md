@@ -1,6 +1,6 @@
 # Typhoeus (C++)
-![Release Date](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg)
-[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)]
+![Release Date](https://img.shields.io/github/release-date/KrugerHeavyIndustries/blazer.svg)
+![Langauge](https://img.shields.io/badge/language-c++-green.svg)
 
 ## About
 
